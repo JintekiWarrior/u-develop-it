@@ -1,0 +1,16 @@
+MAC
+Start Server
+mysql.server start 
+
+Stop server 
+mysql.server stop 
+
+run shell 
+mysql -uroot
+
+exit shell 
+exit
+
+WINDOWS
+start shell 
+mysql -u root -p 
